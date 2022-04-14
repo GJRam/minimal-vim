@@ -9,5 +9,6 @@ My minimal vim setup.
 cd ~/.config 
 git clone git@github.com:GJRam/minimal-vim.git
 cd minimal-vim 
-mv -r * ../ && rm -rf minimal-vim
+mv  * ../ | cd ..
+rm -rf minimal-vim
 ```
