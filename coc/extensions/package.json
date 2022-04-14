@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "coc-ccls": ">=0.0.5",
+    "coc-clangd": ">=0.21.3",
+    "coc-jedi": ">=0.30.1",
+    "coc-json": ">=1.4.1",
+    "coc-marketplace": ">=1.9.0",
+    "coc-omnisharp": ">=0.0.28",
+    "coc-tsserver": ">=1.10.0"
+  }
+}
