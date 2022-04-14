@@ -4,9 +4,10 @@ My minimal vim setup.
 
 
 # setup
-'''console
+
+```console
 cd ~/.config 
 git clone repo
 cd minimal-vim 
 mv -r * ../ && rm -rf minimal-vim
-'''
+```
