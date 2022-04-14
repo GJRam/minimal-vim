@@ -7,7 +7,7 @@ My minimal vim setup.
 
 ```console
 cd ~/.config 
-git clone repo
+git clone git@github.com:GJRam/minimal-vim.git
 cd minimal-vim 
 mv -r * ../ && rm -rf minimal-vim
 ```
