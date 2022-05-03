@@ -66,6 +66,7 @@ let g:fzf_layout = {'window' : { 'width' : 0.7, 'height' : 0.6 } }
 nnoremap <silent> <leader>n   :NERDTreeToggle<CR>
 nnoremap <silent> <leader><space> :Files<CR>
 map <leader>r :execute "vimgrep /" . expand("<cword>") . "/j **" <Bar> cw <CR>
+map <leader>c :cclose<CR>
 
 "Coc Remappings
 inoremap <silent><expr> <TAB>
